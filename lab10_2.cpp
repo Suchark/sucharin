@@ -11,7 +11,6 @@ void printO( int N , int M )
 			for (int j = 0; j < M; j++)
 			{
 				cout << "O";
-
 			}
 			cout << endl;		
 		}
